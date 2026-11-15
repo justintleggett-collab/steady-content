@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updated": "2026-11-15",
+  "categories": [
+    {
+      "title": "Alerts and weather",
+      "apps": [
+        { "name": "FEMA", "summary": "Weather alerts for up to five locations, open shelters, recovery centers and disaster assistance.", "appStoreID": "474807486", "free": true },
+        { "name": "American Red Cross: Emergency", "summary": "Customizable severe weather alerts, checklists and shelter maps.", "searchTerm": "American Red Cross Emergency", "free": true },
+        { "name": "Watch Duty", "summary": "Wildfire maps, evacuation zones and alerts from a nonprofit. Also covers floods.", "searchTerm": "Watch Duty", "free": true },
+        { "name": "Smart911", "summary": "Share household details with 911 and get local alerts.", "searchTerm": "Smart911", "free": true },
+        { "name": "Apple Weather", "summary": "Built in. Severe weather notifications for your location.", "free": true }
+      ]
+    },
+    {
+      "title": "First aid",
+      "apps": [
+        { "name": "American Red Cross: First Aid", "summary": "Step-by-step guidance that works offline.", "searchTerm": "American Red Cross First Aid", "free": true },
+        { "name": "American Red Cross: Pet First Aid", "summary": "First aid and vet finder for pets.", "searchTerm": "American Red Cross Pet First Aid", "free": true }
+      ]
+    },
+    {
+      "title": "Radio and off-grid",
+      "apps": [
+        { "name": "RepeaterBook", "summary": "Ham repeater directory that works offline once downloaded.", "searchTerm": "RepeaterBook", "free": true },
+        { "name": "Meshtastic", "summary": "Text over a LoRa mesh with no cell or Wi-Fi. Needs compatible radio hardware.", "appStoreID": "1586432531", "free": true, "needsHardware": true },
+        { "name": "Broadcastify", "summary": "Live public-safety scanner feeds. Needs an internet connection.", "searchTerm": "Broadcastify", "free": true }
+      ]
+    },
+    {
+      "title": "Maps",
+      "apps": [
+        { "name": "Apple Maps offline maps", "summary": "Built in. Download your area in Maps before a storm. You can also do this from Steady's Offline Maps screen.", "free": true }
+      ]
+    }
+  ]
+}
